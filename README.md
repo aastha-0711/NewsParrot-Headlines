@@ -31,7 +31,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/newsparrot.git
+git clone https://github.com/yourusername/NewsParrot-Headlines.git
 cd newsparrot
 npm install
 npm start
